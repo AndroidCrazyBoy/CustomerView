@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/slid_item"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="#44000000"
+        android:gravity="center"
+        android:padding="5dip"
+        android:text="Content" />
+</LinearLayout>
